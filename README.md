@@ -1,1 +1,1 @@
-# Algorytmy
+# Podstawowe informacje o algorytmach
